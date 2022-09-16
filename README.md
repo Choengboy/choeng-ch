@@ -1,2 +1,3 @@
-# choeng-ch
-stunning-guacamole
+#usr/hash/bash
+#this by file 
+
